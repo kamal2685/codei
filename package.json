@@ -1,0 +1,15 @@
+{
+  "name": "codei",
+  "version": "1.0.0",
+  "description": "our social media website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "kamal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
